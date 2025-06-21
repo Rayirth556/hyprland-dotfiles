@@ -4,7 +4,7 @@ Hyprland rice :)
 I tried to replicate animations, shadows and blur of macOS as much as possible
 
 
-![image](https://github.com/user-attachments/assets/5ceb5b61-1ea2-4e1f-be09-a0f427c83c7f)
+![image](https://github.com/user-attachments/assets/0662a862-9010-4ca9-8620-fa27b190c9b5)
 
 
 
