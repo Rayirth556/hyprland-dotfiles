@@ -8,7 +8,7 @@ I tried to replicate animations, shadows and blur of macOS as much as possible
 
 
 
-![image](https://github.com/user-attachments/assets/1c3ada54-35fc-48fe-8a47-e862f5b70ea5)
+![image](https://github.com/user-attachments/assets/e7ae8c8e-a484-42a7-a384-c8a3a61127ad)
 
 
 
