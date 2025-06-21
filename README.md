@@ -1,4 +1,4 @@
-Hyprland rice :(
+Hyprland rice :)
 
 
 I tried to replicate animations, shadows and blur of macOS as much as possible
