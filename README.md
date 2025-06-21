@@ -8,7 +8,8 @@ I tried to replicate animations, shadows and blur of macOS as much as possible
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1c3ada54-35fc-48fe-8a47-e862f5b70ea5)
+
 
 
 waybar:
